@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "320536154720",
+    "project_id": "locationsharingapp-dipti-16",
+    "storage_bucket": "locationsharingapp-dipti-16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320536154720:android:7ace42b325c821df9a6905",
+        "android_client_info": {
+          "package_name": "com.example.locationsharingapp_dipti_16"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCgvdwMIHakzi8QLcCI-S0EP6U-lFS1c4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
